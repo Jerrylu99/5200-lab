@@ -17,7 +17,7 @@ We build three simulations and one stress test:
 ---
 
 ## Requirements
-- Python 3
+- Python 
 - `numpy`
 - `matplotlib`
 
