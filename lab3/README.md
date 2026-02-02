@@ -48,5 +48,5 @@ All indicators, visualization techniques, and benchmarking logic follow the assi
 ---
 
 ## Files
-- `econ-5200-assignment-1.ipynb` – Main analysis notebook  
+- `lab3.ipynb` – Main analysis notebook  
 - `README.md` – Project documentation
