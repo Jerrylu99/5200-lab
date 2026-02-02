@@ -1,7 +1,9 @@
-# China Economic Dashboard (World Bank Data)
+# China Economic Dashboard (lab3 World Bank Data)
 
 ## Overview
-This project pulls macroeconomic indicators from the World Bank API and builds a **2×3 executive economic dashboard for China**.
+This project corresponds to Lab 3 and focuses on building an executive economic dashboard using World Bank data.
+
+This project pulls macroeconomic indicators from the World Bank API and constructs a **2×3 executive economic dashboard for China**.
 
 While Guatemala was used as an illustrative example in lecture, this project applies the same analytical framework to **China** in order to demonstrate how the methodology generalizes to a different international context.
 
